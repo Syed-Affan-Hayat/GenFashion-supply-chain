@@ -1,0 +1,10 @@
+crewai[tools]
+langchain
+langchain-community
+langchain-openai
+openai
+python-dotenv
+gspread
+oauth2client
+gradio
+pandas
