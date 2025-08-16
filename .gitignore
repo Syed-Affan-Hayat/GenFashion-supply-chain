@@ -18,7 +18,7 @@ env/
 
 # Secrets & Configs
 # ----------------------
-*.json           # Avoid committing service account JSON
+*.json           
 *.key
 *.pem
 
