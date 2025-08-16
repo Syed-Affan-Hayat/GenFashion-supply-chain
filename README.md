@@ -63,14 +63,14 @@ pip install -r requirements.txt
 ### 3. Configure Environment Variables
 Create a .env file:
 
-OPENAI_API_KEY=<your_openai_key> 
-GSHEET_KEYFILE=genfashion-backend-key.json
-SHEET_NAME=<your_google_sheet_name>
-SUPPLIERS_TAB=Suppliers
-SHIPPING_TAB=Shipping
-FEEDBACK_TAB=Feedback  # optional
+- OPENAI_API_KEY=<your_openai_key> 
+- GSHEET_KEYFILE=genfashion-backend-key.json
+- SHEET_NAME=<your_google_sheet_name>
+- SUPPLIERS_TAB=Suppliers
+- SHIPPING_TAB=Shipping
+- FEEDBACK_TAB=Feedback  
 
-- Upload .env and your Google Service Account JSON key to your environment.
+Upload .env and your Google Service Account JSON key to your environment.
 ### 4. Run the Application
 Local environment:
 python app.py
