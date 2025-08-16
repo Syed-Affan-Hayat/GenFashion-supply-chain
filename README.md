@@ -41,6 +41,7 @@ The GenFashion Supply Chain Copilot leverages a specialized agent layer to extra
 
 #### 1. Product Spec Extraction Agent
 Agent Role: Product Spec Extraction Expert
+
 Goal: Extract a clean JSON object with the following keys:
 product_type, material, color, weight, season
 
