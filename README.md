@@ -35,7 +35,7 @@ User → Gradio UI → run_pipeline_with_agent()
    
 ---
 
-## Agent Design & Prompt Engineering
+## Agent Design 
 
 The GenFashion Supply Chain Copilot leverages a specialized agent layer to extract structured product specifications from free-text user input. This allows downstream supplier matching, logistics estimation, and ranking to be fully data-driven.
 
